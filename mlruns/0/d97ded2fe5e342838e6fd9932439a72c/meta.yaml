@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/frederik/Projects/dev/TryAndError/MLOps/mslearn-mlops/mlruns/0/d97ded2fe5e342838e6fd9932439a72c/artifacts
+end_time: 1678778394215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d97ded2fe5e342838e6fd9932439a72c
+run_name: bright-rook-456
+run_uuid: d97ded2fe5e342838e6fd9932439a72c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678778388524
+status: 3
+tags: []
+user_id: frederik

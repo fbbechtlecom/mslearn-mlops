@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/frederik/Projects/dev/TryAndError/MLOps/mslearn-mlops/mlruns/0/5c811cc3ba70479592d74e59928e3d74/artifacts
+end_time: 1678714075401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c811cc3ba70479592d74e59928e3d74
+run_name: funny-koi-492
+run_uuid: 5c811cc3ba70479592d74e59928e3d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678714070193
+status: 3
+tags: []
+user_id: frederik

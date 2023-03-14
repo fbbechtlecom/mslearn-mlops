@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/frederik/Projects/dev/TryAndError/MLOps/mslearn-mlops/mlruns/0/5de4cbf073de44a89ccf80e27745c9c7/artifacts
+end_time: 1678697612424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5de4cbf073de44a89ccf80e27745c9c7
+run_uuid: 5de4cbf073de44a89ccf80e27745c9c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678697608348
+status: 3
+tags: []
+user_id: frederik

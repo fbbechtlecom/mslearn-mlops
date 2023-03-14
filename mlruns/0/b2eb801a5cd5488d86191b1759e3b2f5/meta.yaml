@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/frederik/Projects/dev/TryAndError/MLOps/mslearn-mlops/mlruns/0/b2eb801a5cd5488d86191b1759e3b2f5/artifacts
+end_time: 1678788743786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2eb801a5cd5488d86191b1759e3b2f5
+run_name: thoughtful-mole-440
+run_uuid: b2eb801a5cd5488d86191b1759e3b2f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678788731426
+status: 3
+tags: []
+user_id: frederik

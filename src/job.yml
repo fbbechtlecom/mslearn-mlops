@@ -1,15 +1,31 @@
 $schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
 code: model
-command: >-
-  python 
-  --
-  --
+# command: >-
+#   python 
+#   --
+#   --
+command: |
+  echo "--training-data: ${{inputs.training_data}}"
+  pwd
+  ls
+  python train.py --training_data ${{inputs.training_data}}
+
 inputs:
   training_data: 
     type: uri_folder 
-    path: 
+    path: azureml:diabetes-dev-folder:1.0
   reg_rate: 0.01
 environment: azureml:AzureML-sklearn-0.24-ubuntu18.04-py37-cpu@latest
-compute: 
-experiment_name: 
-description: 
+compute: azureml:testdev-ml
+display_name: mlops-challenge
+experiment_name: MLOpsTask
+description: |
+  # Azure Machine Learning "MLOps Challenge" job
+
+  This is my first job running in the cloud via Azure Machine Learning!
+
+  ## Description
+
+  Markdown is supported in the studio for job descriptions! You can edit the description there or via CLI.
+
+
